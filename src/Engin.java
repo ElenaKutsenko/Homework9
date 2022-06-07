@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Engin {
+public interface Engin {
+    String getSpeed();
 }

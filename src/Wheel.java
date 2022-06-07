@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public interface wheel {
+public interface Wheel {
+
+    String Drive();
+
+
 }

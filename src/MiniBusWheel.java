@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class MiniBuswheel {
-}
+public class MiniBusWheel implements Wheel {
+
+    public MiniBusWheel(){}
+    @Override
+    public String Drive() {
+        return "4";
+
+}}
